@@ -14,3 +14,8 @@ width: 150px;
     color: #49557e;
     font-size: 18px;
 }
+.navbar-right{
+display: flex;
+align-items: center;
+gap: 40px;
+}

@@ -19,3 +19,9 @@ display: flex;
 align-items: center;
 gap: 40px;
 }
+.navbar button {
+    background: transparent;
+    font-style: 16px;
+    color:#49557e;
+    bor
+}

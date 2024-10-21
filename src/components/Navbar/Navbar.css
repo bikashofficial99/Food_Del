@@ -23,5 +23,8 @@ gap: 40px;
     background: transparent;
     font-style: 16px;
     color:#49557e;
-    bor
+    border: 1px solid tomato;
+    padding: 10px 30px;
+    border-radius: 50px;
+    cursor: pointer;
 }
